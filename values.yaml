@@ -5,3 +5,5 @@
 namespace: llauderes-restapi
 
 appName: llauderes-rest-api
+
+replicaSet: 5
