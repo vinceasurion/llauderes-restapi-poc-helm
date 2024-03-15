@@ -7,3 +7,5 @@ namespace: llauderes-restapi
 appName: llauderes-rest-api
 
 replicaSet: 5
+
+tag: 1.1

@@ -17,7 +17,7 @@ spec:
         app: {{ .Values.appName }}
     spec:
       containers:
-        - image: {{ .Values.appName }}:1.0
+        - image: "{{ .Values.appName }}:{{ .Values.tag }}"
           imagePullPolicy: Never
           name: {{ .Values.appName }}
           resources:
