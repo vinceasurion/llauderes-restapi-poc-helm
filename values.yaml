@@ -8,4 +8,4 @@ appName: llauderes-rest-api
 
 replicaSet: 5
 
-tag: 1.2
+tag: 1.3
