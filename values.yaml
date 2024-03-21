@@ -6,6 +6,6 @@ namespace: llauderes-restapi
 
 appName: llauderes-rest-api
 
-replicaSet: 1
+replicaSet: 2
 
-tag: 1.6
+tag: 1.7
